@@ -10,6 +10,7 @@
 ### 4.选择排序
 
 ### 5.归并排序
+	[算法](https://github.com/MeteorZK/AlgorithmExercises/blob/master/%E4%B8%80%E3%80%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/5.%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/%E5%BD%92%E5%B9%B6.md)
 
 ### 6.快速排序
 
